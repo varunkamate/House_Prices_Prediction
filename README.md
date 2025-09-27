@@ -1,5 +1,7 @@
 # House_Prices_Prediction
 
+App Live Link:==> https://housepricesprediction-czy6ytqbuwhq79rudzpq52.streamlit.app/
+
 Key Components
 Load_Train_Data.ipynb: A Jupyter notebook for data loading, exploratory data analysis, and model training. It compares several regression models and selects the best-performing one. The notebook shows that the CatBoostRegressor was chosen as the best model, achieving an accuracy of 99.31%.
 
